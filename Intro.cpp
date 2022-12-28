@@ -1,3 +1,4 @@
+// https://www.youtube.com/watch?v=uSFzHCZ4E-8&ab_channel=StableSort
 /*
   Given an array find sum of a given subarray for multiple queries where for each 
   query you we can compute a sub array sum or update a value in the array  
